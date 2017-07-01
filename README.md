@@ -1,6 +1,6 @@
 # javascript-smart-rockets
 
-**javascript-smart-rockets** implements a genetic algorithm from scratch and create "smart rockets" (based on a [simulation] by [Jer Thorp]).
+**javascript-smart-rockets** is an implementation of a genetic algorithm to create "smart rockets" (based on a [simulation] by [Jer Thorp]).
 
 The rockets evolve the "best" path to a target, moving around obstacles and "learning over time". This particular implementation is based on the one proposed by [Daniel Shiffman] in his book [The Nature of Code].
 
