@@ -14,15 +14,6 @@ The rockets evolve to find the "best" path to a target, moving around the obstac
   <img src="https://dl.dropboxusercontent.com/s/hjl3hfygsmcm4hn/smart_rockets_03.png?dl=0" alt="javascript-tetris gameplay screenshot" />
 </h3>
 
-Future
-------
-
-* [ ] button for reseting the simulation
-* [ ] different types of targets and obstacles
-* [ ] allow the user to move targets and obstacles
-* [ ] allow the user to chose the number of rockets that spawn in each generation
-* [ ] allow the user to change all the parameters of the fitness function
-
 <!---
 Link References
 -->
